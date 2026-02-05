@@ -16,7 +16,7 @@ pipeline {
 
     stage('Deploy') {
       steps {
-        echo 'Deploying from GitHub'
+        echo 'Deploying from GitHub!'
       }
     }
 
